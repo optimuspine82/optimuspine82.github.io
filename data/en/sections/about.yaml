@@ -93,8 +93,8 @@ badges:
   color: yellow
 
 - type: soft-skill-indicator
-  name: Hard Working
-  percentage: 85
+  name: Innovation
+  percentage: 95
   color: orange
 
 # you can also provide color code instead of the color name
